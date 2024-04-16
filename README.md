@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santos-4398812b3/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSantos100&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSantos100&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia
 
