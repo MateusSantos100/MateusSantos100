@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusSantos100&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantos100&layout=compact)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
